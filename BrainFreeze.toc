@@ -1,7 +1,7 @@
 ## Interface: 120100, 120105
 
 ## Title: Brain Freeze
-## Notes: Shows the bonus rolls the SimulationCraft addon has recorded for your character
+## Notes: Bonus roll history for every character: what you won, on which spec, from which boss, and at what difficulty.
 ## Author: Swirl
 ## Version: @project-version@
 ## IconTexture: Interface\ICONS\ability_mage_brainfreeze
