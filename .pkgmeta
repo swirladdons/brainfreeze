@@ -1,0 +1,6 @@
+package-as: BrainFreeze
+
+externals:
+    UI:
+        url: https://github.com/lolswirl/SwirlFramework
+        branch: main

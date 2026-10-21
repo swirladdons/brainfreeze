@@ -1,0 +1,16 @@
+## Interface: 120100, 120105
+
+## Title: Brain Freeze
+## Notes: Shows the bonus rolls the SimulationCraft addon has recorded for your character
+## Author: Swirl
+## Version: @project-version@
+## IconTexture: Interface\ICONS\ability_mage_brainfreeze
+## Group: SwirlUI
+## OptionalDeps: Simulationcraft
+## SavedVariables: BrainFreezeDB
+
+## Category: Other
+
+UI/SwirlFramework.xml
+
+Core.lua
